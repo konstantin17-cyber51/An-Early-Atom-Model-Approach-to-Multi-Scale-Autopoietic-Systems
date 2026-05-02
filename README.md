@@ -1,8 +1,9 @@
-# An-Early-Atom-Model-Approach-to-Multi-Scale-Autopoietic-Systems
-# Proto-Architecture for Hybrid Bio-Mimetic Intelligence  
+# An-Early-Atom-Model-Approach-to-Multi-Scale-Autopoietic-Systems-and-ML
+# Proto-Architecture for Hybrid Bio-Mimetic Intelligence and ML
 ### An “Early Atom Model” Approach to Multi-Scale Autopoietic Systems
 
 ---
+This document was partially developed with AI-assisted tooling.
 
 ## 1. Executive Summary
 
